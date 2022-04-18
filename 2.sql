@@ -1,0 +1,1 @@
+SELECT sum(goals) as 'sum goals' FROM Players
